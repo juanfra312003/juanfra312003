@@ -1,9 +1,9 @@
-### Hi everyone, my name is Juan Francisco Ramírez 👨‍💻
+# Hi everyone, my name is Juan Francisco Ramírez 👨‍💻
 - 📘 I'm currently studying Systems Engineering and Data Science at Ponticia Universidad Javeriana (Bogotá, Colombia).
 - 🖥 I've been someone pasionated by learning programming stuff since I was at high school.
 - 🏆 My dream is to be a full stack developer in a not fair future, as I told you, I love coding and the constant learning.
 
-## Something about me 🧐
+## Some things about me 🧐
 
 <!--
 **juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
