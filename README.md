@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Juan Francisco Ramírez 👨‍💻
+- 📘 I'm currently studying Systems Engineering and Data Science at Ponticia Universidad Javeriana (Bogotá, Colombia).
 
 <!--
 **juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
