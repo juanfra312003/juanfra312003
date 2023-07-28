@@ -3,9 +3,6 @@
 - 🖥 I've been someone pasionated by learning programming stuff since I was at high school.
 - 🏆 My dream is to be a full stack developer in a not fair future, as I told you, I love coding and the constant learning.
 
-## Some things about me 🧐
-- 🤙🏻 I'm from Colombia, I'm 19 years old. I love my country but in a future I would like to live in Europa or in the United States of America.
-- ⚽ Besides programming, I have other hobbies like play soccer, go to the stadium and share time with my family and friends.
 <!--
 **juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
