@@ -4,6 +4,8 @@
 - 🏆 My dream is to be a full stack developer in a not fair future, as I told you, I love coding and the constant learning.
 - 🥇 I have been member of the ACM chapter of my college since January of 2021. It's a space where I have been actively participating in many activities like an hour of code, Google code Jam and others.
 - 🧠 Currently, I am really interested in mobile computing.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfra312003)](https://github.com/juanfra312003/github-readme-stats)
 <!--
 **juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
