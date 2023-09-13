@@ -1,5 +1,6 @@
+<h1 align = "center">Hi everyone, my name is Juan Francisco Ramírez 👨‍💻</h1>
+
 <div align="left">
-  <h1>Hi everyone, my name is Juan Francisco Ramírez 👨‍💻</h1>
   <ul>
     <li>📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).</li>
     <li>🖥 I've been passionate about learning programming since my high school days.</li>
@@ -10,6 +11,11 @@
   </ul>
 </div>
 
+<div align="center">
+  <a href="https://github.com/juanfra312003/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10" style="max-width: 100%;" alt="Top Langs">
+  </a>
+</div>
 
 
 <!--
