@@ -1,4 +1,4 @@
-<h1 align = "center">Hi everyone, my name is Juan Francisco Ramírez 👨‍💻</h1>
+<h1 align = "center">Hi everyone 🤙, I'm Juan Francisco </h1>
 
 <div align="left">
   <ul>
@@ -11,13 +11,17 @@
   </ul>
 </div>
 
+<br> <br>
+
+<h2 align = "center"> Lenguajes y Herramientas 👨‍💻 </h2>
+
 <div align="center">
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=radical" alt="juanfra312003's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=algolia" alt="juanfra312003's GitHub stats">
   </a>
   
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10" style="max-width: 100%;" alt="Top Langs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp; theme=algolia&amplayout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10" style="max-width: 100%;" alt=" juanfra312003's Top Langs">
   </a>
 </div>
 
