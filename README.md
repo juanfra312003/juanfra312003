@@ -1,9 +1,12 @@
-# Hi everyone, my name is Juan Francisco Ramírez 👨‍💻
-- 📘 I'm currently studying Systems Engineering and Data Science at Ponticia Universidad Javeriana (Bogotá, Colombia).
-- 🖥 I've been someone pasionated by learning programming stuff since I was at high school.
-- 🏆 My dream is to be a full stack developer in a not fair future, as I told you, I love coding and the constant learning.
-- 🥇 I have been member of the ACM chapter of my college since January of 2021. It's a space where I have been actively participating in many activities like an hour of code, Google code Jam and others.
-- 🧠 Currently, I am really interested in mobile computing.
+<div align = "center">
+  # Hi everyone, my name is Juan Francisco Ramírez 👨‍💻
+  - 📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).
+  - 🖥 I've been passionate about learning programming since my high school days.
+  - 🏆 My dream is to become a full-stack developer in the near future. As I mentioned earlier, I love coding and continuous learning.
+  - 🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.
+  - 🥇 I have been a member of the ACM chapter at my college since January 2021. It's a space where I actively participate in various activities, such as an Hour of Code, Google Code Jam, and others.
+  - 🧠 Currently, I have a strong interest in mobile computing and web development projects.
+</div>
 
 <div align="center">
   <div align = "left">
