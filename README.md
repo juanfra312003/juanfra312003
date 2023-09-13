@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=algolia" alt="juanfra312003's GitHub stats" width="45%" height="150px";">
     </a>
     <a href="[https://streak-stats.demolab.com/?user=juanfra312003](https://streak-stats.demolab.com/?user=juanfra312003&theme=algolia)" style="margin: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=juanfra312003&theme=algolia" alt="GitHub Streak" width="45%" height="150px";">
+      <img src="https://streak-stats.demolab.com/?user=juanfra312003&theme=algolia" alt="GitHub Streak juanfra312003" width="45%" height="150px";">
     </a>
   </div>
 </div>
