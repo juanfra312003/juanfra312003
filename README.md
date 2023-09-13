@@ -14,11 +14,11 @@
 <h1> My stats: 🏆 </h2>
 <div align="center">
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-    <a href="https://github.com/juanfra312003/github-readme-stats" style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=algolia" alt="juanfra312003's GitHub stats" width="45%" style="max-height: 200px;">
+    <a href="https://github-readme-stats.demolab.com/?user=juanfra312003" style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=algolia" alt="juanfra312003's GitHub stats" width="45%" style="max-height: 180px;">
     </a>
     <a href="https://streak-stats.demolab.com/?user=juanfra312003" style="margin: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=juanfra312003&theme=algolia" alt="GitHub Streak" width="45%" style="max-height: 200px;">
+      <img src="https://streak-stats.demolab.com/?user=juanfra312003&theme=algolia" alt="GitHub Streak" width="45%" style="max-height: 180px;">
     </a>
   </div>
 </div>
