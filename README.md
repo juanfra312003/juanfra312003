@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hi everyone, my name is Juan Francisco Ramírez 👨‍💻</h1>
   <ul>
     <li>📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).</li>
