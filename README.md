@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp; theme=algolia&amplayout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10" style="max-width: 100%;" alt=" juanfra312003's Top Langs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp; theme=algolia&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10" style="max-width: 100%;" alt=" juanfra312003's Top Langs">
   </a>
 </div>
 
