@@ -6,9 +6,7 @@
 - 🧠 Currently, I am really interested in mobile computing.
 
 <div align="center">
-  <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&theme=dracula" alt="Top Langs">
-  </a>
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&theme=dracula)](https://github.com/juanfra312003/github-readme-stats)
 </div>
 <!--
 **juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
