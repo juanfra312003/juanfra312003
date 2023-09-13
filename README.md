@@ -13,13 +13,14 @@
 
 <div align="center">
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true;theme=algolia" style="max-width: 100%;" alt="juanfra312003's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true;theme=algolia" alt="juanfra312003's GitHub stats">
   </a>
   
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10;theme =algolia" style="max-width: 100%;" alt="Top Langs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10;theme=algolia" style="max-width: 100%;" alt="Top Langs">
   </a>
 </div>
+
 
 
 
