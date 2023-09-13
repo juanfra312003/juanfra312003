@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/juanfra312003/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=radical" alt="juanfra312003's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=algolia" alt="juanfra312003's GitHub stats">
   </a>
   
   <a href="https://github.com/juanfra312003/github-readme-stats">
