@@ -11,6 +11,7 @@
   </ul>
 </div>
 
+<div>
 <h1> My stats: 🏆 </h2>
 <div align="center">
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
@@ -30,11 +31,12 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanfra312003&amp;layout=donut&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=181824&amp;hide_border=true&amp;show_icons=true&amp;langs_count=10&theme=algolia" style="max-width: 100%;" alt="juanfra312003's Top Langs">
   </a>
 </div>
+</div>
 
 <div align = "left">
   <h1> Tech Stack 💻 </h1>
   
-  <h2> Languages </h2>
+  <h4> Programming Languages 📢</h4>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
         </a>
@@ -69,10 +71,61 @@
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
         </a>
   
-  <h2> Tools </h2>
+  <h4> Tools 🧰 </h4>
+  <div>
+        <a href="https://spring.io/projects/spring-boot">
+            <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
+        </a>
+        <a href="https://firebase.google.com/">
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+        </a>
+        <a href="https://unity.com/">
+            <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" alt="Unity">
+        </a>
+        <a href="https://developer.android.com/studio">
+            <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+        </a>
+        <a href="https://flutter.dev/">
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+        </a>
+        <a href="https://www.postman.com/">
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black" alt="Postman">
+        </a>
+        <a href="https://gradle.org/">
+            <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+        </a>
+        <a href="https://maven.apache.org/">
+            <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+        </a>
+        <a href="https://www.atlassian.com/">
+            <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian">
+        </a>
+        <a href="https://www.atlassian.com/software/jira">
+            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+        </a>
+    </div>
   
-  <h2> Data Bases </h2>
-  
+  <h4> Data Bases ℹ️ </h4>
+  <div>
+        <a href="https://www.postgresql.org/">
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        </a>
+        <a href="https://www.mysql.com/">
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        </a>
+        <a href="https://www.mongodb.com/">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019-ppa">
+            <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access">
+        </a>
+    </div>
+</div>
+
+<div>
+  <h1> Welcome to my projects 🤓</h1>
+  <p> In this space, you will find a collection of my personal and professional projects. From web applications to useful scripts, this repository is where I share and document my creations. Explore, collaborate, and discover the world of programming through my projects! Feel free to review the content and contribute your ideas and suggestions. Thank you for visiting my repository, and I hope you find something that inspires you or proves useful on your own development journey!
+  </p>
 </div>
 
 
