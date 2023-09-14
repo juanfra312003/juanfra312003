@@ -31,6 +31,50 @@
   </a>
 </div>
 
+<div align = "left">
+  <h1> Tech Stack 💻 </h1>
+  
+  <h2> Languages </h2>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        </a>
+        <a href="https://www.python.org/">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </a>
+        <a href="https://www.java.com/">
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        </a>
+        <a href="https://kotlinlang.org/">
+            <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+        </a>
+        <a href="https://developer.apple.com/swift/">
+            <img src="https://img.shields.io/badge/Swift-FFAC45?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+        </a>
+        <a href="https://www.r-project.org/">
+            <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+        </a>
+        <a href="https://dart.dev/">
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+        </a>
+  
+  <h2> Tools </h2>
+  
+  <h2> Data Bases </h2>
+  
+</div>
+
 
 
 
