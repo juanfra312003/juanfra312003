@@ -122,7 +122,7 @@
     </div>
 </div>
 
-<br> <br>
+<br>
 
 <div align = "left">
   <h1> Contact Me 📫:
@@ -133,13 +133,12 @@
         <a href="mailto:juanframireze@javeriana.edu.co">
             <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
         </a>
-        <a href="www.linkedin.com/in/juan-francisco-ramirez-escobar-575636212">
+        <a href="https://www.linkedin.com/in/juan-francisco-ramirez-escobar">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </div>
 </div>
 
-<br>
 
 <div>
   <h1> Welcome to my projects 🤓</h1>
