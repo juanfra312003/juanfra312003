@@ -18,28 +18,22 @@
 </div>
 
 ## About Me: 🛠️
-<div align="left">
-  <ul>
-    <li>📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).</li>
-    <li>🖥 I've been passionate about learning programming since my high school days.</li>
-    <li>🏆 My dream is to become a mobile developer in the near future. As I mentioned earlier, I love coding and continuous learning.</li>
-    <li>🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.</li>
-    <li>🥇 I have been a member of the ACM chapter at my college since January 2021. In 2023 I assume the chairman position of the academical group. It's a space where I actively participate in various projects, such as an Hour of Code, Google Code Jam, and others.</li>
-    <li>🧠 Currently, I'm learning <b>DynamoDB, .NET</b>. </li>
-  </ul>
-</div>
+<ul>
+  <li>📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).</li>
+  <li>🖥 I've been passionate about learning programming since my high school days.</li>
+  <li>🏆 My dream is to become a mobile developer in the near future. As I mentioned earlier, I love coding and continuous learning.</li>
+  <li>🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.</li>
+  <li>🥇 I have been a member of the ACM chapter at my college since January 2021. In 2023 I assume the chairman position of the academical group. It's a space where I actively participate in various projects, such as an Hour of Code, Google Code Jam, and others.</li>
+  <li>🧠 Currently, I'm learning <b>DynamoDB, .NET</b>. </li>
+</ul>
 
-<h2 align = "center"> My stats: 🏆 </h2>
-  <div align="center">
-    <p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
-    <p align = "center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react" alt="juanfra312003" /></p>
-    <br>
-    <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" /></p>
-  </div>
+  <h2 align = "center"> My stats: 🏆 </h2>
+  <p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
+  <p align = "center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react" alt="juanfra312003"></p>
 
 
-
-<h2>Tech Stack 🧑‍💻 </h2>
+  
+ <h2>Tech Stack 🧑‍💻 </h2>
 
   <h3 align = "center"> Programming Languages 📢 </h3>
   <div align = "center">
