@@ -1,10 +1,23 @@
 <h1>Hi everyone 🤙, I'm Juan Francisco </h1>
-<h3 align = "center">A passionate systems engineer and data science student from Colombia</h3>
+<h3 align = "center">A passionate systems engineer and Data Science student from Colombia 🖥️ </h3>
 
 <p align = "center">
   <img src="sources/octocat-jfre.png" height=350">
 </p>
 
+<div align = "center">
+  <a href="mailto:juanframireze@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:juanframireze@javeriana.edu.co">
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-francisco-ramirez-escobar-575636212">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+## About Me: 🛠️
 <div align="left">
   <ul>
     <li>📘 I'm currently studying Systems Engineering and Data Science at Pontificia Universidad Javeriana (Bogotá, Colombia).</li>
@@ -12,7 +25,7 @@
     <li>🏆 My dream is to become a mobile developer in the near future. As I mentioned earlier, I love coding and continuous learning.</li>
     <li>🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.</li>
     <li>🥇 I have been a member of the ACM chapter at my college since January 2021. In 2023 I assume the chairman position of the academical group. It's a space where I actively participate in various projects, such as an Hour of Code, Google Code Jam, and others.</li>
-    <li>🧠 Currently, I have a strong interest in mobile computing and web development projects.</li>
+    <li>🧠 Currently, I'm learning **DynamoDB, .NET**.</li>
   </ul>
 </div>
 
@@ -130,20 +143,6 @@
 
 <br>
 
-<div align = "left">
-  <h1> Contact Me 📫:
-  <div>
-        <a href="mailto:juanframireze@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="mailto:juanframireze@javeriana.edu.co">
-            <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-        </a>
-        <a href="https://www.linkedin.com/in/juan-francisco-ramirez-escobar-575636212">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-    </div>
-</div>
 
 
 <div>
