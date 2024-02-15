@@ -27,11 +27,6 @@
   <li>🧠 Currently, I'm learning <b>DynamoDB, .NET</b>. </li>
 </ul>
 
-  <h2 align = "center"> My stats: 🏆 </h2>
-  <p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
-  <p align = "center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react" alt="juanfra312003"></p>
-
-
   
  <h2>Tech Stack 🧑‍💻 </h2>
 
