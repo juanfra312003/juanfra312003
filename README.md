@@ -29,31 +29,26 @@
   </ul>
 </div>
 
-<div>
-<h2> My stats: 🏆 </h2>
+<h2 align = "center"> My stats: 🏆 </h2>
   <div align="center">
     <p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
     <p align = "center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react" alt="juanfra312003" /></p>
+    <br>
+    <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" /></p>
   </div>
-</div>
 
 
-<h2> Most Used Languages: 🔥 </h2>
-<div align="center">
- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" /></p>
-</div>
-</div>
 
+<h2>Tech Stack 🧑‍💻 </h2>
 
-<div align = "left">
-  <h2> Programming Languages 📢</h2>
+  <h3 align = "center"> Programming Languages 📢 </h3>
   <div align = "center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r&perline=15" />
     </a>
   </div>
   
-  <h2> Tools 🧰 </h2>
+  <h3 align = "center"> Tools 🧰 </h3>
   <div align = "center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=angular,spring,net,docker&perline=15" />
@@ -67,23 +62,3 @@
   <p> In this space, you will find a collection of my personal and professional projects. From web applications to useful scripts, this repository is where I share and document my creations. Explore, collaborate, and discover the world of programming through my projects! Feel free to review the content and contribute your ideas and suggestions. Thank you for visiting my repository, and I hope you find something that inspires you or proves useful on your own development journey!
   </p>
 </div>
-
-
-
-
-
-
-<!--
-**juanfra312003/juanfra312003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
