@@ -31,23 +31,28 @@
  <h2>Tech Stack 🧑‍💻 </h2>
 
   <h3 align = "center"> Programming Languages 📢 </h3>
-  <div align = "center">
+  <p align = "center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r&perline=15" />
     </a>
-  </div>
+  </p>
   
   <h3 align = "center"> Tools 🧰 </h3>
-  <div align = "center">
+  <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,spring,net,docker&perline=15" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,firebase,androidstudio,flutter,angular,spring,net,docker,figma&perline=15" />
     </a>
-  </div>
+  </p>
+
+<h2> My GH Stats 🏆 </h2>
+<p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" /></p>
+
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
+
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react" alt="juanfra312003" /></p>
 
 <br>
 
-<div>
-  <h1> Welcome to my projects 🤓</h1>
-  <p> In this space, you will find a collection of my personal and professional projects. From web applications to useful scripts, this repository is where I share and document my creations. Explore, collaborate, and discover the world of programming through my projects! Feel free to review the content and contribute your ideas and suggestions. Thank you for visiting my repository, and I hope you find something that inspires you or proves useful on your own development journey!
-  </p>
-</div>
+<h1> Welcome to my projects 🤓</h1>
+<p> In this space, you will find a collection of my personal and professional projects. From web applications to useful scripts, this repository is where I share and document my creations. Explore, collaborate, and discover the world of programming through my projects! Feel free to review the content and contribute your ideas and suggestions. Thank you for visiting my repository, and I hope you find something that inspires you or proves useful on your own development journey!
+</p>
