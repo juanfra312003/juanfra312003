@@ -33,14 +33,44 @@
   <h3 align = "center"> Programming Languages 📢 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r&perline=15" />
+      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r,rust&perline=15" />
+    </a>
+  </p>
+
+  <h3 align = "center"> Backend Frameworks  </h3>
+  <p align = "center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=15" />
+    </a>
+  </p>
+
+
+  <h3 align = "center"> Frontend Frameworks  </h3>
+  <p align = "center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=angular" />
+    </a>
+  </p>
+
+  <h3 align = "center"> DevOps </h3>
+  <p align = "center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker" />
+    </a>
+  </p>
+
+  <h3 align = "center"> Databases ℹ️ </h3>
+  <p align = "center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres" />
     </a>
   </p>
   
-  <h3 align = "center"> Tools 🧰 </h3>
+  
+  <h3 align = "center"> Other Tools 🧰 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,firebase,androidstudio,flutter,angular,spring,net,docker,figma&perline=15" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,firebase,androidstudio,flutter,figma&perline=15" />
     </a>
   </p>
 
