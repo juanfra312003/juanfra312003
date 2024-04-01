@@ -25,7 +25,7 @@
   <li>🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.</li>
   <li>🥇 I have been a member of the ACM chapter at my college since January 2021. In 2023 I assume the chairman position of the academical group. It's a space where I actively participate in various projects, such as an Hour of Code, Google Code Jam, and others.</li>
   <li>🧠 Currently, I'm learning the following frameworks: <b> NodeJS, Express </b>, the language <b> Rust </b>, in addition of some util cloud tools as <b> AWS: S3, lambda functions </b>. </li>
-  <li>👁️ If you know an interesting web framework available on Rocket, please, contact me :) </li>
+  <li>👁️ If you know an interesting web framework available on Rust, please, contact me :) </li>
 </ul>
 
   
