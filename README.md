@@ -41,7 +41,7 @@
   <h3 align = "center"> Backend Frameworks  </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=15" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,ktor&perline=15" />
     </a>
   </p>
 
