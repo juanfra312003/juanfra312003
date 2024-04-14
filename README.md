@@ -34,14 +34,14 @@
   <h3 align = "center"> Programming Languages 📢 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r,rust&perline=15" />
+      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r,rust,cs&perline=15" />
     </a>
   </p>
 
   <h3 align = "center"> Backend Frameworks  </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,ktor&perline=15" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet&perline=15" />
     </a>
   </p>
 
