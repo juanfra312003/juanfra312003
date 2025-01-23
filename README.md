@@ -33,7 +33,7 @@
   <h3 align = "center"> Programming Languages 📢 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp,dart,html,css,js,ts,r,go&perline=15" />
+      <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp,dart,html,css,js,ts,r&perline=15" />
     </a>
   </p>
 
@@ -70,7 +70,7 @@
   <h3 align = "center"> Other Tools 🧰 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,firebase,androidstudio,flutter,figma&perline=15" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,firebase,androidstudio,figma&perline=15" />
     </a>
   </p>
 
