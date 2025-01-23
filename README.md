@@ -24,8 +24,7 @@
   <li>🏆 My dream is to become a mobile developer in the near future. As I mentioned earlier, I love coding and continuous learning.</li>
   <li>🤖 Currently, I'm working on research related to AI tools, primarily focusing on understanding Machine Learning techniques and algorithms.</li>
   <li>🥇 I have been a member of the ACM chapter at my college since January 2021. In 2023 I assume the chairman position of the academical group. It's a space where I actively participate in various projects, such as an Hour of Code, Google Code Jam, and others.</li>
-  <li>🧠 Currently, I'm learning the following frameworks: <b> NodeJS, Express, Dotnet </b>, the language <b> Rust </b>, in addition of some cloud stuff as <b> Docker, K8s </b>. </li>
-  <li>👁️ If you know an interesting web framework available on Rust, please, contact me :) </li>
+  <li>🧠 Currently, I'm learning the following frameworks: <b> NodeJS, Express, Dotnet </b>, the language <b> Rust </b>, in addition of some cloud stuff as <b> Docker </b>. </li>
 </ul>
 
   
@@ -34,7 +33,7 @@
   <h3 align = "center"> Programming Languages 📢 </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,r,rust,cs&perline=15" />
+      <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp,dart,html,css,js,ts,r,go&perline=15" />
     </a>
   </p>
 
@@ -49,7 +48,7 @@
   <h3 align = "center"> Frontend Frameworks  </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular" />
+      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,flutter" />
     </a>
   </p>
 
@@ -63,7 +62,7 @@
   <h3 align = "center"> Databases ℹ️ </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,redis" />
     </a>
   </p>
   
@@ -78,7 +77,7 @@
 <h2> My GH Stats 🏆 </h2>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" hight = 300px/></p>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react&locale=en" alt="juanfra312003" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react&locale=en" alt="juanfra312003 Streaks" /></p>
 
 
 <br>
