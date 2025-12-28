@@ -76,8 +76,7 @@
 
 <h2> My GH Stats 🏆 </h2>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfra312003&show_icons=true&theme=react&locale=en&layout=donut" alt="juanfra312003" hight = 300px/></p>
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfra312003&show_icons=true&theme=react&locale=en" alt="juanfra312003" /></p>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfra312003&theme=react&locale=en" alt="juanfra312003 Streaks" /></p>
+
 
 
 <br>
