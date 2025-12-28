@@ -1,5 +1,5 @@
 <h1>Hi everyone 🤙, I'm Juan Francisco </h1>
-<h3 align = "center">A passionate systems engineer and Data Science student from Colombia 🖥️ </h3>
+<h3 align = "center">A passionate SWE and Data Science student from Colombia 🖥️ </h3>
 
 <p align = "center">
   <img src="sources/octocat-jfre.png" height=350">
