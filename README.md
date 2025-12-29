@@ -55,7 +55,7 @@
   <h3 align = "center"> DevOps </h3>
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker" />
+      <img src="https://skillicons.dev/icons?i=docker,aws" />
     </a>
   </p>
 
